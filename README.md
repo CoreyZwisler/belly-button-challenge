@@ -9,21 +9,21 @@ Use the D3 library to read in samples.json from the URL https://2u-data-curricul
 
 2. Use sample_values as the values for the bar chart.
 
-Use otu_ids as the labels for the bar chart.
+  Use otu_ids as the labels for the bar chart.
 
-Use otu_labels as the hovertext for the chart.
+  Use otu_labels as the hovertext for the chart.
 
 3. Create a bubble chart that displays each sample.
 
-Use otu_ids for the x values.
+  Use otu_ids for the x values.
 
-Use sample_values for the y values.
+  Use sample_values for the y values.
 
-Use sample_values for the marker size.
+  Use sample_values for the marker size.
 
-Use otu_ids for the marker colors.
+  Use otu_ids for the marker colors.
 
-Use otu_labels for the text values.
+  Use otu_labels for the text values.
 
 4. Display the sample metadata, i.e., an individual's demographic information.
 
