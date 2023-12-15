@@ -1,5 +1,7 @@
 # belly-button-challenge
 
+link to gitpages: https://coreyzwisler.github.io/belly-button-challenge/
+
 **Instructions**
 Complete the following steps:
 
